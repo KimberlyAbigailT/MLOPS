@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/IT3385%20-%20MLOPS/MLOPS/notebooks/mlruns/2/675704609d994b49bf9b6dd54ab049a8/artifacts
+end_time: 1708613912246
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 675704609d994b49bf9b6dd54ab049a8
+run_name: Dummy Classifier
+run_uuid: 675704609d994b49bf9b6dd54ab049a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708613911957
+status: 3
+tags: []
+user_id: USER

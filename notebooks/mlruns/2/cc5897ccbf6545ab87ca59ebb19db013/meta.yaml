@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/IT3385%20-%20MLOPS/MLOPS/notebooks/mlruns/2/cc5897ccbf6545ab87ca59ebb19db013/artifacts
+end_time: 1708613907417
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: cc5897ccbf6545ab87ca59ebb19db013
+run_name: Extreme Gradient Boosting
+run_uuid: cc5897ccbf6545ab87ca59ebb19db013
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708613907082
+status: 3
+tags: []
+user_id: USER

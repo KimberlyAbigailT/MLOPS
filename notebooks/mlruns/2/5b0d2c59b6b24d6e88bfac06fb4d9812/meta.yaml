@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/IT3385%20-%20MLOPS/MLOPS/notebooks/mlruns/2/5b0d2c59b6b24d6e88bfac06fb4d9812/artifacts
+end_time: 1708612770120
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 5b0d2c59b6b24d6e88bfac06fb4d9812
+run_name: K Neighbors Classifier
+run_uuid: 5b0d2c59b6b24d6e88bfac06fb4d9812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708612769840
+status: 3
+tags: []
+user_id: USER

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/IT3385%20-%20MLOPS/MLOPS/notebooks/mlruns/1/2fdd9367a0454777bb51700e79d7c14d/artifacts
+end_time: 1708608399828
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2fdd9367a0454777bb51700e79d7c14d
+run_name: Decision Tree Classifier
+run_uuid: 2fdd9367a0454777bb51700e79d7c14d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708608399596
+status: 3
+tags: []
+user_id: USER

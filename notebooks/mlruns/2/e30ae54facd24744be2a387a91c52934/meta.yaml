@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/IT3385%20-%20MLOPS/MLOPS/notebooks/mlruns/2/e30ae54facd24744be2a387a91c52934/artifacts
+end_time: 1708611483462
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: e30ae54facd24744be2a387a91c52934
+run_name: rogue-gull-862
+run_uuid: e30ae54facd24744be2a387a91c52934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708611477996
+status: 4
+tags: []
+user_id: USER
