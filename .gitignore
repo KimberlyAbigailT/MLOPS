@@ -91,3 +91,5 @@ target/
 
 # Hydra logs
 outputs
+
+.venv
