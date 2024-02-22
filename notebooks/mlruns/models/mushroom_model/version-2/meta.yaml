@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1708620485699
+current_stage: None
+description: null
+last_updated_timestamp: 1708620485699
+name: mushroom_model
+run_id: 0349a5bc5d944bc0b01b57c98942913f
+run_link: null
+source: file:///C:/Users/USER/IT3385%20-%20MLOPS/MLOPS/notebooks/mlruns/2/0349a5bc5d944bc0b01b57c98942913f/artifacts/sk_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/USER/IT3385%20-%20MLOPS/MLOPS/notebooks/mlruns/2/0349a5bc5d944bc0b01b57c98942913f/artifacts/sk_model
+user_id: null
+version: 2
