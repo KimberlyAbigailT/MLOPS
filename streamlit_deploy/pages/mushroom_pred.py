@@ -15,7 +15,7 @@ mr_model = load_model(Path(__file__).parents[2] / 'models' / 'mushroom_pipeline'
 
 
 def get_user_input():
-    st.write("Please fill in the required information to get your prediction")
+    st.write("Please fill in the required information for prediction")
 
     cap_shapes = ['convex', 'bell', 'sunken', 'flat', 'knobbed', 'conical']
     cap_shape = st.selectbox("Cap Shape", cap_shapes)
