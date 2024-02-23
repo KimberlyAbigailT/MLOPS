@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/IT3385%20-%20MLOPS/MLOPS/notebooks/mlruns/2/aeb02cbff01243cb8a7683c3ade8b368/artifacts
+end_time: 1708612517452
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: aeb02cbff01243cb8a7683c3ade8b368
+run_name: Ada Boost Classifier
+run_uuid: aeb02cbff01243cb8a7683c3ade8b368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708612517192
+status: 3
+tags: []
+user_id: USER

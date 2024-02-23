@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/IT3385%20-%20MLOPS/MLOPS/notebooks/mlruns/2/61a06310f23d4b7ea36fb35a6d6bfa55/artifacts
+end_time: 1708619371929
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 61a06310f23d4b7ea36fb35a6d6bfa55
+run_name: SVM - Linear Kernel
+run_uuid: 61a06310f23d4b7ea36fb35a6d6bfa55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708619371591
+status: 3
+tags: []
+user_id: USER

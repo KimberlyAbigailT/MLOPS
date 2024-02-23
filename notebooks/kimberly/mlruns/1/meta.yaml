@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/USER/IT3385%20-%20MLOPS/MLOPS/notebooks/mlruns/1
+creation_time: 1708608240227
+experiment_id: '1'
+last_update_time: 1708608240227
+lifecycle_stage: active
+name: mushroom_hydra

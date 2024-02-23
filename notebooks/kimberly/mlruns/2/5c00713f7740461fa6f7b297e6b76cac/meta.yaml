@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/IT3385%20-%20MLOPS/MLOPS/notebooks/mlruns/2/5c00713f7740461fa6f7b297e6b76cac/artifacts
+end_time: 1708612516308
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 5c00713f7740461fa6f7b297e6b76cac
+run_name: CatBoost Classifier
+run_uuid: 5c00713f7740461fa6f7b297e6b76cac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708612516051
+status: 3
+tags: []
+user_id: USER

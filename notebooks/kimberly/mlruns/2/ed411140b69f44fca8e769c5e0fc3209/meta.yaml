@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/IT3385%20-%20MLOPS/MLOPS/notebooks/mlruns/2/ed411140b69f44fca8e769c5e0fc3209/artifacts
+end_time: 1708660013721
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: ed411140b69f44fca8e769c5e0fc3209
+run_name: Linear Discriminant Analysis
+run_uuid: ed411140b69f44fca8e769c5e0fc3209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708660013196
+status: 3
+tags: []
+user_id: USER

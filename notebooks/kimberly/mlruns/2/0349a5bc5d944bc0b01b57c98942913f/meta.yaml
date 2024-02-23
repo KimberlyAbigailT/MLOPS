@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/IT3385%20-%20MLOPS/MLOPS/notebooks/mlruns/2/0349a5bc5d944bc0b01b57c98942913f/artifacts
+end_time: 1708620485731
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 0349a5bc5d944bc0b01b57c98942913f
+run_name: gifted-asp-699
+run_uuid: 0349a5bc5d944bc0b01b57c98942913f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708620481692
+status: 3
+tags: []
+user_id: USER

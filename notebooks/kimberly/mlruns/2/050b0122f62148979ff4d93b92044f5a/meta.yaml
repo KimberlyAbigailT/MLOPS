@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/IT3385%20-%20MLOPS/MLOPS/notebooks/mlruns/2/050b0122f62148979ff4d93b92044f5a/artifacts
+end_time: 1708661282344
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 050b0122f62148979ff4d93b92044f5a
+run_name: treasured-sponge-686
+run_uuid: 050b0122f62148979ff4d93b92044f5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708661277908
+status: 3
+tags: []
+user_id: USER

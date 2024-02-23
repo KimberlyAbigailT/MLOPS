@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/IT3385%20-%20MLOPS/MLOPS/notebooks/mlruns/2/12459dffcff942b88637cd3f0bf0ac74/artifacts
+end_time: 1708620759088
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 12459dffcff942b88637cd3f0bf0ac74
+run_name: Quadratic Discriminant Analysis
+run_uuid: 12459dffcff942b88637cd3f0bf0ac74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708620758766
+status: 3
+tags: []
+user_id: USER

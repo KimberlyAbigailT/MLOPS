@@ -1,0 +1,16 @@
+data:
+  raw: ../data/raw/02_mushroom_data.csv
+  ppath: ../data/processed/
+
+setup:
+  target: class
+  trainsize: 0.8
+  transform: True
+  norm: True
+  session: 123
+  logexp: True
+  expname: mushroom
+  rmoutlier: True
+  fold: 10
+  ignore: 
+    - veil-type
