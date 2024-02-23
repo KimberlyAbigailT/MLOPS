@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/IT3385%20-%20MLOPS/MLOPS/notebooks/mlruns/1/d23189a1e4d94bb6a0b0cd112a76ab6c/artifacts
+end_time: 1708608759174
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d23189a1e4d94bb6a0b0cd112a76ab6c
+run_name: Random Forest Classifier
+run_uuid: d23189a1e4d94bb6a0b0cd112a76ab6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708608758463
+status: 3
+tags: []
+user_id: USER

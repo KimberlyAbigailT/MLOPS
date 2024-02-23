@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/IT3385%20-%20MLOPS/MLOPS/notebooks/mlruns/2/7ca93248567c45088e7279abf4fc9052/artifacts
+end_time: 1708613906965
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 7ca93248567c45088e7279abf4fc9052
+run_name: Extra Trees Classifier
+run_uuid: 7ca93248567c45088e7279abf4fc9052
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708613906672
+status: 3
+tags: []
+user_id: USER

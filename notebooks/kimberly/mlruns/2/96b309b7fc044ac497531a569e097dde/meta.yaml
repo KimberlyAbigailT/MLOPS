@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/IT3385%20-%20MLOPS/MLOPS/notebooks/mlruns/2/96b309b7fc044ac497531a569e097dde/artifacts
+end_time: 1708620481680
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 96b309b7fc044ac497531a569e097dde
+run_name: Session Initialized 404b
+run_uuid: 96b309b7fc044ac497531a569e097dde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708620146293
+status: 3
+tags: []
+user_id: USER

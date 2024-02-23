@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/IT3385%20-%20MLOPS/MLOPS/notebooks/mlruns/2/4bc4107e10fb4cd3ae0fb907f8ba81c1/artifacts
+end_time: 1708617744379
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 4bc4107e10fb4cd3ae0fb907f8ba81c1
+run_name: Light Gradient Boosting Machine
+run_uuid: 4bc4107e10fb4cd3ae0fb907f8ba81c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708617744038
+status: 3
+tags: []
+user_id: USER

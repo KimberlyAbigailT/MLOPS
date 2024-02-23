@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/IT3385%20-%20MLOPS/MLOPS/notebooks/mlruns/2/0c5a416e490b423b952f7a970f8e73de/artifacts
+end_time: 1708619372417
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 0c5a416e490b423b952f7a970f8e73de
+run_name: Ridge Classifier
+run_uuid: 0c5a416e490b423b952f7a970f8e73de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708619372099
+status: 3
+tags: []
+user_id: USER
