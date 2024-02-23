@@ -93,3 +93,4 @@ target/
 outputs
 
 .venv
+catboost_info

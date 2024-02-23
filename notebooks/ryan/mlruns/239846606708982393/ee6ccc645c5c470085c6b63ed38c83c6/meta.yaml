@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/239846606708982393/ee6ccc645c5c470085c6b63ed38c83c6/artifacts
+deleted_time: 1708701460797
+end_time: 1708701091521
+entry_point_name: ''
+experiment_id: '239846606708982393'
+lifecycle_stage: deleted
+run_id: ee6ccc645c5c470085c6b63ed38c83c6
+run_name: shivering-calf-529
+run_uuid: ee6ccc645c5c470085c6b63ed38c83c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708701091461
+status: 4
+tags: []
+user_id: Zude Ang

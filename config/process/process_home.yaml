@@ -1,0 +1,12 @@
+data: 
+    raw: ../../data/raw/01_homely_resort_listing.csv
+    ppath: ../../data/processed/
+
+setup:
+    target: price
+    train_size : 0.8
+    norm: True
+    session: 123
+    expname: homes_v2
+    fold: 10
+

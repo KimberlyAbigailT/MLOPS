@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/239846606708982393/e3a98d5306d049aca3cd5c3a25d234fd/artifacts
+end_time: 1708701618754
+entry_point_name: ''
+experiment_id: '239846606708982393'
+lifecycle_stage: active
+run_id: e3a98d5306d049aca3cd5c3a25d234fd
+run_name: worried-kite-202
+run_uuid: e3a98d5306d049aca3cd5c3a25d234fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708701615464
+status: 3
+tags: []
+user_id: Zude Ang

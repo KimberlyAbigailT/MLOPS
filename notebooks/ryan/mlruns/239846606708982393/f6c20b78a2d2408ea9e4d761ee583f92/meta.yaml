@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/239846606708982393/f6c20b78a2d2408ea9e4d761ee583f92/artifacts
+deleted_time: 1708701460797
+end_time: 1708701173168
+entry_point_name: ''
+experiment_id: '239846606708982393'
+lifecycle_stage: deleted
+run_id: f6c20b78a2d2408ea9e4d761ee583f92
+run_name: puzzled-grouse-793
+run_uuid: f6c20b78a2d2408ea9e4d761ee583f92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708701169257
+status: 4
+tags: []
+user_id: Zude Ang

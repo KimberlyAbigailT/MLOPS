@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/239846606708982393/64904beb88cb44da8d944a39e137ef25/artifacts
+end_time: 1708696638932
+entry_point_name: ''
+experiment_id: '239846606708982393'
+lifecycle_stage: active
+run_id: 64904beb88cb44da8d944a39e137ef25
+run_name: calm-shrimp-817
+run_uuid: 64904beb88cb44da8d944a39e137ef25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708696635540
+status: 3
+tags: []
+user_id: Zude Ang
