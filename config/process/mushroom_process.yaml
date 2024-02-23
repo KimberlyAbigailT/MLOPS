@@ -12,3 +12,5 @@ setup:
   expname: mushroom
   rmoutlier: True
   fold: 10
+  ignore: 
+    - veil-type
