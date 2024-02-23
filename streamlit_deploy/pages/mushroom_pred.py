@@ -136,11 +136,11 @@ if __name__ == "__main__":
     with col1:
         df, user_input = get_user_input()
     with col3:
-        prediction = predict_mushroom(model, df)
+        prediction = predict_mushroom(mr_model, df)
         st.subheader('Predicted Output')
         if prediction == 'poisonous':
-            st.markdown("<h1 style='color: red;'>‼️ OH NO ‼️</h1>", unsafe_allow_html=True)
-            st.write(f':red_circle[Based on feature values, you are likely to have cardiovascular issues]')
+            st.markdown("<h1 style='color: red;'>POISONOUS</h1>", unsafe_allow_html=True)
+            st.write(f':red_circle[Based on the input values, the mushroom is likely poisonous.]')
         if prediction == 'edible':
-            st.markdown("<h1 style='color: green;'>YAY 😀</h1>", unsafe_allow_html=True)
-            st.write(f':green_circle[Based on feature values, you are normal. Unlikely to have cardiovascular issues]')
+            st.markdown("<h1 style='color: green;'>EDIBLE</h1>", unsafe_allow_html=True)
+            st.write(f':green_circle[Based on the input values, the mushroom is likely edible.]')
