@@ -1,17 +1,17 @@
 import streamlit as st
 import pandas as pd
 import pycaret
-from pycaret.regression import load_model, predict_model
+from pycaret.regression import load_model as load_model_regression, predict_model as predict_model_regression
 from pathlib import Path
 
 st.title('Home Price Prediction')
 
 def predict_homes(model, df):
-    predictions = predict_model(estimator=model, data =df)
+    predictions = predict_model_regression(estimator=model, data =df)
     
     return predictions['prediction_label'][0]
 
-homes = load_model(Path(__file__).parents[2] / 'models' / 'homely_resort')
+homes = load_model_regression(Path(__file__).parents[2] / 'models' / 'homely_resort')
 
 def get_user_inputs():
     st.write("Fill in the following fields to get a rough estimate of the price!")
