@@ -5,7 +5,7 @@ data:
 setup:
     target: price
     train_size : 0.8
-    norm: True
+    normalize : True
     session: 123
     expname: homes_v2
     fold: 10

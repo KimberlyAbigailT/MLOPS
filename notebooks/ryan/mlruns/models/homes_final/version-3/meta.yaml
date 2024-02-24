@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1708715708617
+current_stage: None
+description: ''
+last_updated_timestamp: 1708715708617
+name: homes_final
+run_id: 25fab1e18785463d92e75a1a8b6d4b72
+run_link: ''
+source: mlflow-artifacts:/239846606708982393/25fab1e18785463d92e75a1a8b6d4b72/artifacts/sk_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/239846606708982393/25fab1e18785463d92e75a1a8b6d4b72/artifacts/sk_model
+user_id: null
+version: 3
