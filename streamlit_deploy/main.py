@@ -11,10 +11,3 @@ st.markdown(
     '</a></button>',
     unsafe_allow_html=True
 )
-# st.markdown(
-#     '<button style="background-color: beige; color: brown; font-size: 20px; border: none; padding: 10px 20px; border-radius: 5px;">'
-#     '<a href="/HDB_Prediction" target="_self" style="text-decoration: none; color: brown;">'
-#     '🏘️HDB Prediction'
-#     '</a></button>',
-#     unsafe_allow_html=True
-# )
