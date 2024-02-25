@@ -113,8 +113,6 @@ def get_user_input():
 
 
     features_df = pd.DataFrame([user_input])
-    # prediction = predict_quality(model, features_df)
-    # st.write(prediction)
     return features_df, user_input
 
 
