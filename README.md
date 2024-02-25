@@ -21,6 +21,7 @@ cookiecutter {link} --checkout dvc-poetry
 Parameters for model setup were coded into config/process/ .yaml files
 
 # Streamlit
+Download streamlit + deploy the model
 ```bash
 pip install streamlit
 cd streamlit_deploy
